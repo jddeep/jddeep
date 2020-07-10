@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, jddeep here 😎️
+
+
+- 🔭 I’m currently working as: SWE Intern @Jio and GSoC @AOSSIE-Org
+- 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
+- 🤔 I’m looking for developers to help with Web Dev and Desktop projects.
+- 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaideep-prasad-117379167/), [Email](jddeep003@gmail.com)
+- 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
+- ⚡ Past work and experience: SDE Intern at releaseMyAd.com, GSoC'19 @FOSSASIA, GCI'19 Mentor and more.
 
 <!--
 **jddeep/jddeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
