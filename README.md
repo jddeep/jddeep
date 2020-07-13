@@ -8,6 +8,7 @@
 - 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
 - ⚡ Past work and experience: SDE Intern at releaseMyAd.com, GSoC'19 @FOSSASIA, GCI'19 Mentor and more.
 - 📫 How to reach me:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaideep-prasad-117379167/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/JaideepPrasad3)
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@jddeep003)
