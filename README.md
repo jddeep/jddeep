@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
 - 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
 - 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
-- ⚡ Past work and experience: SDE Intern at releaseMyAd.com, GSoC'19 @FOSSASIA, GCI'19 Mentor and more.
+- ⚡ Past work and experience: SDE Intern at [ReleaseMyAd.com](https://releasemyad.com), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaideep-prasad-117379167/)
