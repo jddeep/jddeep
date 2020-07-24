@@ -1,6 +1,9 @@
 ### Hi there 👋, jddeep here 😎️
 ###### A Software Developer 🚀 with experience of building Native and Hybrid/Cross-platform Mobile 📱 applications.
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 - 🔭 I’m currently working as: SWE Intern [@Jio](https://github.com/Reliance-Jio) and GSoC'20 [@AOSSIE](https://github.com/AOSSIE-Org)
 - 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
@@ -14,6 +17,13 @@
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@jddeep003)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC9U4g_Daixay_RmY_ciAlMA?view_as=subscriber)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/jddeepofficial/)
+
+<a href="https://github.com/jddeep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jddeep&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/jddeep">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jddeep&show_icons=true&theme=dracula&line_height=27" alt="Jaideep's github stats"/>
+</a>
 
 <!--
 **jddeep/jddeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
