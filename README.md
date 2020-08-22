@@ -5,11 +5,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-- 🔭 I’m currently working as: SWE Intern [@Jio](https://github.com/Reliance-Jio) and GSoC'20 [@AOSSIE](https://github.com/AOSSIE-Org)
+- 🔭 I’m currently working as: SDE Intern [@Trell](https://trell.co/) and GSoC'20 [@AOSSIE](https://github.com/AOSSIE-Org)
 - 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
 - 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
 - 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
-- ⚡ Past work and experience: SDE Intern at [ReleaseMyAd.com](https://releasemyad.com), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
+- ⚡ Past work and experience: Software Engineer Intern [@Jio](https://github.com/Reliance-Jio), SDE Intern at [ReleaseMyAd.com](https://releasemyad.com), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaideep-prasad-117379167/)
