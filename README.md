@@ -5,12 +5,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-- 🔭 I’m currently working as: SDE Intern [@Trell](https://trell.co/)
+- 🔭 I’m currently building [Mentro](https://mentro.tech)
 - 💻 Google Summer of Code: 2020 [@AOSSIE](https://gitlab.com/aossie/monumento/-/blob/gsoc-20/docs/GSOC/2020/Jaideep.md), 2019 [@FOSSASIA](https://gist.github.com/jddeep/f577efa04baea912a44605fbbf7d8d91)
 - 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
 - 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
 - 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
-- ⚡ Past work and experience: Software Engineer Intern [@Jio](https://github.com/Reliance-Jio), SDE Intern at [ReleaseMyAd.com](https://releasemyad.com), GSoC'20 [@AOSSIE](https://aossie.gitlab.io/), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
+- ⚡ Past work and experience: Software Engineer Intern [@Jio](https://github.com/Reliance-Jio), SDE Intern [@Trell](https://trell.co/), SDE Intern at [ReleaseMyAd.com](https://releasemyad.com), GSoC'20 [@AOSSIE](https://aossie.gitlab.io/), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
 - 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaideep-prasad-117379167/)
