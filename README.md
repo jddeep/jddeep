@@ -5,7 +5,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-- 🔭 I’m currently building [Mentro](https://mentro.tech)
+- 🔭 Building [@Mentro](https://mentro.tech), SWE [@Vedantu](https://www.vedantu.com)
 - 💻 Google Summer of Code: 2020 [@AOSSIE](https://gitlab.com/aossie/monumento/-/blob/gsoc-20/docs/GSOC/2020/Jaideep.md), 2019 [@FOSSASIA](https://gist.github.com/jddeep/f577efa04baea912a44605fbbf7d8d91)
 - 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
 - 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
