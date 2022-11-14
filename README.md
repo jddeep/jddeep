@@ -7,8 +7,8 @@
 
 - 🔭 Founded [@Mentro](https://mentro.tech)
 - 💻 Google Summer of Code: 2020 [@AOSSIE](https://gitlab.com/aossie/monumento/-/blob/gsoc-20/docs/GSOC/2020/Jaideep.md), 2019 [@FOSSASIA](https://gist.github.com/jddeep/f577efa04baea912a44605fbbf7d8d91)
-- 👯 I’m looking to collaborate on visionary products with a mission towards serving the people and community.
-- 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Linux, Firebase, Music 🎶️ and more
+- 👯 I’m looking to contribute on visionary products with a mission towards serving the people and community.
+- 💬 Ask me about Android, Flutter, Mobile App Dev, Open Source, Tech, Music 🎶️ and more
 - 😄 Passion work: Singing & Songwriting 🎧️, Guitar player 🎸️
 - ⚡ Past work and experience: Software Engineer [@Vedantu](https://www.vedantu.com), Software Engineer Intern [@Jio](https://github.com/Reliance-Jio), SDE Intern [@Trell](https://trell.co/), SDE at [ReleaseMyAd.com](https://releasemyad.com), GSoC'20 [@AOSSIE](https://aossie.gitlab.io/), GSoC'19 [@FOSSASIA](https://github.com/fossasia/), GCI'19 Mentor and more.
 - 📫 How to reach me:
