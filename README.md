@@ -19,9 +19,9 @@
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC9U4g_Daixay_RmY_ciAlMA?view_as=subscriber)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/jddeepofficial/)
 
-<a href="https://github.com/jddeep">
+<!-- <a href="https://github.com/jddeep">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jddeep&show_icons=true&theme=dracula&line_height=27" alt="Jaideep's github stats"/>
-</a>
+</a> -->
 <!-- <a href="https://github.com/jddeep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jddeep&theme=dark&hide_langs_below=1" />
 </a> -->
